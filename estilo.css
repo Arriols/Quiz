@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight&display=swap');
 *{
     box-sizing: border-box;
-    font-family: 'Mochiy Pop One';
+    font-family: 'Inter Tight', sans-serif;;
 }
 body{
     background-color: #3EECAC;
